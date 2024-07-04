@@ -30,7 +30,7 @@ Ensure Python 3.6 or later installed on your machine. You can download Python fr
     streamlit run ui_solution.py
     ```
 
-5. **Access the application**. Open your web browser and go to `http://localhost:8501` to use the application. Sample predined files (10k.txt and 20k.xt) and input file (book.txt) is present in data directory in the project file.
+5. **Access the application**. Open your web browser and go to `http://localhost:8501` to use the application. Sample predefined files (10k.txt and 20k.xt) and input file (book.txt) is present in data directory in the project file.
 
 ## Usage
 
