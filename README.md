@@ -30,11 +30,11 @@ Ensure Python 3.6 or later installed on your machine. You can download Python fr
     streamlit run ui_solution.py
     ```
 
-5. **Access the application**. Open your web browser and go to `http://localhost:8501` to use the application.
+5. **Access the application**. Open your web browser and go to `http://localhost:8501` to use the application. Sample predined files (10k.txt and 20k.xt) and input file (book.txt) is present in data directory in the project file.
 
 ## Usage
 
-- **Upload Predefined Words**: You can upload a `.txt` file with predefined words listed one per line, or you can enter the words manually as comma-separated values in the provided text input field. Sample predined files (10k.txt and 20k.xt) and input file (book.txt) is present in data directory.
+- **Upload Predefined Words**: You can upload a `.txt` file with predefined words listed one per line, or you can enter the words manually as comma-separated values in the provided text input field.
 
 - **Upload Text Files**: Upload one or more `.txt` input files that you want to analyze. The application will count the occurrences of each predefined word in these files.
 
