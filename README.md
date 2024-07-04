@@ -53,3 +53,10 @@ Enhances the basic word counting functionality by utilizing Python's `concurrent
 ### PySpark Word Counter (`pySpark_solution.py`)
 
 Leverages Apache Hadoop and PySpark for distributed data processing, enabling scalable and efficient word counting across very large datasets or multiple files. This implementation is ideal for enterprise-level applications where data volume exceeds the memory capacity of a single machine.
+
+## Sample screenshots:
+![img1](https://github.com/dhayanesh/word-counter/assets/63561465/30660a5b-f23d-4fdf-bad3-08bb2cd7c45f)
+![img2](https://github.com/dhayanesh/word-counter/assets/63561465/934cab12-e75a-4ee7-a71b-dc36edca851d)
+![img3](https://github.com/dhayanesh/word-counter/assets/63561465/c50cc275-fcb8-447a-9530-d8dc94434d20)
+
+
