@@ -1,4 +1,4 @@
-# Predefined Word Counter/Checker
+# Word Counter/Checker
 
 ## Overview
 
